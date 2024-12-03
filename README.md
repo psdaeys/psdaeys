@@ -5,7 +5,8 @@
 ---
 
 ### About Me  
-I am a graduate student at Yonsei University, focusing on applying statistical and data science models to economics. My work emphasizes:  
+focusing on applying statistical and data science models to economics. 
+My work emphasizes:  
 - Economic data analysis using unstructured data  
 - Natural language processing (NLP) with monetary policy statements from the Bank of Korea  
 
